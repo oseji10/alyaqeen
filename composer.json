@@ -1,0 +1,6 @@
+{
+    "require": {
+        "socketlabs/email-delivery": "^1.2",
+        "swiftmailer/swiftmailer": "^6.0"
+    }
+}
